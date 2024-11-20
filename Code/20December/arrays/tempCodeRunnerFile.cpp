@@ -1,1 +1,0 @@
-cout << "Found Target "  << words[i] << 
